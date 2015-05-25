@@ -3,6 +3,10 @@ Project for image stitch without blending
 
 The reference file includes some files about the theory of image stitch which I used in stitch.
 
+The test file includes some test images.
+
+The vl
+
 
 
 The GUI file is the GUI for the image stitch and inpainting. Main.m is the main window of GUI and you can start with it. The stitch function need more than one image being imported and their name must be in order from the direction. The inpainting function can just import one image.
