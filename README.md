@@ -5,7 +5,7 @@ The reference file includes some files about the theory of image stitch which I 
 
 The test file includes some test images.
 
-The vl
+The vlfeat file is the vlfeat box. I used SIFT function of this toolbox. User guide can be found in its own README file
 
 
 
